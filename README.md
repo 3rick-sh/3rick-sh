@@ -4,8 +4,7 @@
 <p>Estudiante en camino a web developer y fullsctack</p>
 
 
-<img width="100%" alt="IMAGEN GITHUB" src="https://github.com/user-attachments/assets/9093c7dc-d377-4503-8b83-964288dbc440" />
-
+<img width="100%" alt="IMAGEN GITHUB" src="https://github.com/user-attachments/assets/39ce9898-3816-4bfb-9309-625338782341" />
 
 
 <h3>Aprendizaje</h3>
