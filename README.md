@@ -15,6 +15,7 @@
   <li><strong>Agosto/2025 - Agosto/2025:</strong> Curso de Html, CSS y JavaScript</li>
 </ul>
 
+<h3>Conocimientos</h3>
 <table>
   <tr>
     <th>Lenguaje / Tecnología</th>
