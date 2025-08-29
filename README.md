@@ -3,7 +3,7 @@
 <p>Estudiante en camino a web developer y fullsctack</p>
 
 
-<img width="100%"  alt="Logo_Blanco-removebg-preview (1)" src="https://github.com/user-attachments/assets/d3440179-7a60-47db-ba75-7918920499cd" />
+<img width="80%"  alt="Logo_Blanco-removebg-preview (1)" src="https://github.com/user-attachments/assets/d3440179-7a60-47db-ba75-7918920499cd" />
 
 
 <h3>Conocimientos</h3>
