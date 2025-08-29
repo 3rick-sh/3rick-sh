@@ -4,7 +4,8 @@
 <p>Estudiante en camino a web developer y fullsctack</p>
 
 
-<img width="50%"  alt="Logo_Blanco-removebg-preview (1)" src="https://github.com/user-attachments/assets/d3440179-7a60-47db-ba75-7918920499cd" />
+<img width="100%" alt="IMAGEN GITHUB" src="https://github.com/user-attachments/assets/9093c7dc-d377-4503-8b83-964288dbc440" />
+
 
 
 <h3>Aprendizaje</h3>
