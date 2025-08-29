@@ -1,5 +1,5 @@
 <center>
-<h2>Holaa. Estas en el repositorio de Erick Soto</h2> 
+<h2>Holaa. Estas en el perfil de Erick Soto</h2> 
 
 <p>Estudiante en camino a web developer y fullsctack</p>
 
