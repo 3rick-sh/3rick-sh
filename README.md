@@ -11,13 +11,16 @@
 ---
 
 #### 🔧 ¿Que lenguajes utilizo?
-<img width="100" alt="html-5" src="https://github.com/user-attachments/assets/0dc4ec05-1abe-4e14-ad67-ceef4cf4bda0" /> <img width="100" alt="css-3" src="https://github.com/user-attachments/assets/4c6a1de5-4846-458f-80ba-23077d24eb1a" />
+<img width="100" alt="html-5" src="https://github.com/user-attachments/assets/0dc4ec05-1abe-4e14-ad67-ceef4cf4bda0" /> <img width="100" alt="css-3" src="https://github.com/user-attachments/assets/4c6a1de5-4846-458f-80ba-23077d24eb1a" /><img width="100" alt="js" src="https://github.com/user-attachments/assets/e68d167e-18b3-472d-84f1-a9b918adf792" /> <img width="100" alt="piton" src="https://github.com/user-attachments/assets/cc857504-3319-4720-be81-e71d873689f3" />
+
+
 
 
 
 #### 🔧 ¿Herramientas?
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img width="100" alt="github" src="https://github.com/user-attachments/assets/f764e054-7f2b-4017-8b38-5e210abc5f28" /> <img width="100" alt="visual-basico" src="https://github.com/user-attachments/assets/5589ea4f-96a4-4098-88eb-c98898bd1a2a" />
+
+
 
 #### 🔧 Contacto
 <a href="https://www.tiktok.com/@3rick_sh_develope?_t=ZS-8zPRrgo2nNY&_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
