@@ -1,72 +1,28 @@
-<center>
-<h2>Holaa. Estas en el perfil de Erick Soto</h2> 
+<div align="center">
+   <img width="100%" alt="IMAGEN GITHUB" src="https://github.com/user-attachments/assets/39ce9898-3816-4bfb-9309-625338782341" />
+</div>
 
-<p>Estudiante en camino a web developer y fullsctack</p>
+<h3 align="center">
+  Holaa! Estas en el perfil de Erick Soto :smiley:
+</h3>
 
+<h4 align="center">Web Developer Junior</h4> 
 
-<img width="100%" alt="IMAGEN GITHUB" src="https://github.com/user-attachments/assets/39ce9898-3816-4bfb-9309-625338782341" />
+---
 
+#### 🔧 ¿Que lenguajes utilizo?
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<h3>Aprendizaje</h3>
-<ul>
-  <li><strong>Septiempre/2024 - Actualidad:</strong> Estudios tecnicos en programacion.</li>
-  <li><strong>Mayo/2025 - Junio/2025:</strong> Curso intensivo en Python.</li>
-  <li><strong>Junio/2025 - Julio/2025:</strong> Curso intensivo en JavaScript.</li>
-  <li><strong>Agosto/2025 - Agosto/2025:</strong> Curso de Html, CSS y JavaScript</li>
-</ul>
+#### 🔧 ¿Herramientas?
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<h3>Conocimientos</h3>
-<table>
-  <tr>
-    <th>Lenguaje / Tecnología</th>
-    <th>Dominio</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>Desarrollo Web</td>
-    <td>Intermedio</td>
-    <td>
-      <div style="background:#ddd; width:150px; border-radius:5px;">
-        <div style="width:70%; background:#4CAF50; height:10px; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Intermedio Alto</td>
-    <td>
-      <div style="background:#ddd; width:150px; border-radius:5px;">
-        <div style="width:35%; background:#2196F3; height:10px; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>Intermedio</td>
-    <td>
-      <div style="background:#ddd; width:150px; border-radius:5px;">
-        <div style="width:55%; background:#f39c12; height:10px; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>Html</td>
-    <td>Intermedio alto</td>
-    <td>
-      <div style="background:#ddd; width:150px; border-radius:5px;">
-        <div style="width:40%; background:#9b59b6; height:10px; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>CSS</td>
-    <td>Intermedio bajo</td>
-    <td>
-      <div style="background:#ddd; width:150px; border-radius:5px;">
-        <div style="width:60%; background:#e74c3c; height:10px; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</center>
+#### 🔧 Contacto
+<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
