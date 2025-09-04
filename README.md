@@ -10,6 +10,17 @@
 
 ---
 
+<h3>Sobre mi</h3>
+
+Estudiante destinado a ser un gran Web Developer y Fullstack
+
+#### Historia de aprendizaje
+
+<li><strong>Agosto/2024 - Actualidad:</strong> Estudios tecnicos en programación en bachillerato.</li>
+<li><strong>Mayo/2025 - Junio/2025:</strong> Curso intensivo en JavaScript</li>
+<li><strong>Junio/2025 - Julio/2025:</strong> Curso intensivo en Html,CSS,JavaScript</li>
+<li><strong>Julio/2025 - Agosto/2025:</strong> Curso de refuerzo sobre Python</li>
+
 #### 🔧 Lenguajes
 <img width="100" alt="html-5" src="https://github.com/user-attachments/assets/0dc4ec05-1abe-4e14-ad67-ceef4cf4bda0" /> <img width="100" alt="css-3" src="https://github.com/user-attachments/assets/4c6a1de5-4846-458f-80ba-23077d24eb1a" /> <img width="100" alt="js" src="https://github.com/user-attachments/assets/e68d167e-18b3-472d-84f1-a9b918adf792" /> <img width="100" alt="piton" src="https://github.com/user-attachments/assets/cc857504-3319-4720-be81-e71d873689f3" />
 
