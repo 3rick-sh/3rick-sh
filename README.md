@@ -55,3 +55,7 @@ Estudiante destinado a ser un gran Web Developer y Fullstack
       <td>Intermedio</td>
     </tr>
   </table>
+
+<a href="https://www.instagram.com/3rick_sh_developer/" target="_blank">
+<img width="30" alt="instagram" src="https://github.com/user-attachments/assets/c32b4e9e-2afa-4599-9e3e-b464d1101869" />
+</a>
