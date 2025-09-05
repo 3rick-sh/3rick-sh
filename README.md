@@ -65,3 +65,7 @@ Estudiante destinado a ser un gran Web Developer y Fullstack
 <a href="https://www.facebook.com/profile.php?id=61579376845660&locale=es_LA" target="_blank">
 <img width="30" alt="facebook (1)" src="https://github.com/user-attachments/assets/fc726582-b529-4d1c-8573-c4888d23e83b" />
 </a>
+
+<a href="https://www.linkedin.com/in/3ricksh/" target="_blank">
+<img width="30" alt="linkedin" src="https://github.com/user-attachments/assets/fd1961f3-3cb3-485d-9a1f-4a051a9cde37" />
+</a>
