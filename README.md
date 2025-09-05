@@ -61,11 +61,11 @@ Estudiante destinado a ser un gran Web Developer y Fullstack
 <a href="https://www.instagram.com/3rick_sh_developer/" target="_blank">
 <img width="30" alt="instagram" src="https://github.com/user-attachments/assets/c32b4e9e-2afa-4599-9e3e-b464d1101869" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=61579376845660&locale=es_LA" target="_blank">
 <img width="30" alt="facebook (1)" src="https://github.com/user-attachments/assets/fc726582-b529-4d1c-8573-c4888d23e83b" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/3ricksh/" target="_blank">
 <img width="30" alt="linkedin" src="https://github.com/user-attachments/assets/fd1961f3-3cb3-485d-9a1f-4a051a9cde37" />
 </a>
